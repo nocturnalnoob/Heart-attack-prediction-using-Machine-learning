@@ -1,5 +1,5 @@
 # Heart-attack-prediction-using-Machine-learning
-redict heart attack risk with this user-friendly web application powered by machine learning and deployed with Flask.
+Predict heart attack risk with this user-friendly web application powered by machine learning and deployed with Flask.
 
 ## Key Features:
 
